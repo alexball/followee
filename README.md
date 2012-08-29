@@ -1,9 +1,11 @@
 Follow:ee
 ========
 
-Follow:ee is a very simple plugin that implements Twitter's official Follow button into your ExpressionEngine templates. This is my first attempt at a plugin, and was inspired by a lot of encouragement from the #eecms community.
+Follow:ee is a very simple plugin that implements Twitter's official [Follow button](https://dev.twitter.com/docs/follow-button) into your ExpressionEngine templates. This is my first attempt at a plugin, and was inspired by a lot of encouragement from the #eecms community, including [Mike Hughes](http://twitter.com/cityzenllc).
 
 More or less, I'm working on getting better at PHP development, and this is the first step in what I hope will be a long career in development.
+
+** NOTE ** - In order to help me learn the process, I referenced [FocusLabLLC's](http://focuslabllc.com/) [Tweet_button plugin](https://github.com/focuslabllc/tweet_button.ee_addon). The layout of the code is strikingly similar. In no way am I claiming originality in the functionality of the code, simply trying to learn the best practices.
 
 Installation
 ------------
