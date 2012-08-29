@@ -10,7 +10,7 @@ Installation
 
 Follow:ee is an ExpressionEngine plugin. To install
 
-- Copy the 'followee/pi.followee.php' folder to your 'system/expressionengine/third_party' directory
+- Copy the `followee/pi.followee.php` folder to your `system/expressionengine/third_party` directory
 
 Plugin Usage
 ------------
@@ -24,4 +24,13 @@ It is important that you specify a username, otherwise everyone will just start 
 Support
 -------
 
-As I mentioned before, I'm just learning how to do this type of development. This probably won't require much \'support\' but if you want to leave comments on here, go for it.
+As I mentioned before, I'm just learning how to do this type of development. This probably won't require much 'support' but if you want to leave comments on here, go for it.
+
+Changelog
+---------
+
+**August 29, 2012** - First push to GitHub.
+
+### Roadmap ###
+
+- Add support for other default options like langauge, swapping out 'Follow' word, and adding follow count
